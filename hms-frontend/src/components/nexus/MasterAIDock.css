@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=DM+Sans:wght@600;700&display=swap');
+
+.master-ai-dock-wrap {
+  position: fixed;
+  bottom: 24px;
+  right: 28px;
+  z-index: 9999;
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* Dynamic Themes */
+.master-ai-dock-wrap[data-dock-theme="dark"] {
+  --dock-bg: rgba(11, 27, 43, 0.92);
+  --dock-border: rgba(0, 212, 255, 0.35);
+  --dock-shadow: 0 12px 36px rgba(0, 0, 0, 0.5), 0 0 20px rgba(0, 212, 255, 0.15);
+  --dock-divider: rgba(255, 255, 255, 0.12);
+  --btn-hover-bg: rgba(255, 255, 255, 0.08);
+}
+
+.master-ai-dock-wrap[data-dock-theme="light"] {
+  --dock-bg: rgba(255, 255, 255, 0.96);
+  --dock-border: rgba(2, 132, 199, 0.3);
+  --dock-shadow: 0 12px 36px rgba(0, 0, 0, 0.14), 0 0 20px rgba(2, 132, 199, 0.1);
+  --dock-divider: rgba(0, 0, 0, 0.08);
+  --btn-hover-bg: rgba(2, 132, 199, 0.08);
+}
+
+/* Pill Bar Container */
+.dock-pill-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--dock-bg);
+  backdrop-filter: blur(16px);
+  border: 1.5px solid var(--dock-border);
+  border-radius: 50px;
+  padding: 6px 10px;
+  box-shadow: var(--dock-shadow);
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.dock-pill-bar:hover {
+  transform: translateY(-2px);
+}
+
+.dock-divider {
+  width: 1px;
+  height: 22px;
+  background: var(--dock-divider);
+  flex-shrink: 0;
+}
+
+/* Individual AI Dock Buttons */
+.dock-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: 40px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dock-btn:hover {
+  background: var(--btn-hover-bg);
+  transform: scale(1.04);
+}
+
+.dock-btn-icon {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dock-btn-label {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Distinct Button Styles & Active Glows */
+.dock-btn.jarvis .dock-btn-label {
+  color: #00d4ff;
+}
+.dock-btn.jarvis.active {
+  background: rgba(0, 212, 255, 0.18);
+  box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);
+}
+
+.dock-btn.care .dock-btn-label {
+  color: #c9a24b;
+}
+.dock-btn.care.active {
+  background: rgba(201, 162, 75, 0.18);
+  box-shadow: 0 0 12px rgba(201, 162, 75, 0.4);
+}
+
+.dock-btn.nexus .dock-btn-label {
+  color: #6c63ff;
+}
+.dock-btn.nexus.active {
+  background: rgba(108, 99, 255, 0.18);
+  box-shadow: 0 0 12px rgba(108, 99, 255, 0.4);
+}
+
+@media (max-width: 650px) {
+  .dock-btn-label {
+    display: none;
+  }
+  .dock-btn {
+    padding: 8px 10px;
+  }
+}
