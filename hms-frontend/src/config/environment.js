@@ -1,5 +1,5 @@
 const environment = {
-    backendUrl: "http://localhost:7765",
+    backendUrl: import.meta.env.VITE_API_URL,
 };
 
 export default environment;
