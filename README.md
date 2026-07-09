@@ -1,134 +1,178 @@
-# 🏥 Vantoor Medcity
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🏥+Vantoor+Medcity;AI+Powered+Hospital+Management+System;Modern+Healthcare+Platform;React+Frontend+Application" />
+# 🏥 Vantoor Medcity
 
----
-
-### 🚀 Next Generation Hospital Management Platform
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+Powered+Hospital+Management+System;Healthcare+ERP+Platform;Appointment+%7C+Analytics+%7C+AI+Assistant;Built+with+React+%2B+Spring+Boot" />
 
 <p align="center">
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Healthcare](https://img.shields.io/badge/Healthcare-Digital-blue?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-Powered-success?style=for-the-badge)
+<img src="https://img.shields.io/github/languages/top/yourusername/vantoor-medcity?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/yourusername/vantoor-medcity?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/yourusername/vantoor-medcity?style=for-the-badge">
+<img src="https://img.shields.io/github/license/yourusername/vantoor-medcity?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge">
 
 </p>
 
-### 🌐 Live Demo
-
-# 👉 https://vantoor-medcity-1.onrender.com/
-
 ---
+
+### 🏥 Modern AI Powered Healthcare Platform
+
+*Helping hospitals digitize operations with AI, automation and analytics.*
+
+<br>
+
+# 🌐 Live Application
+
+### 🚀 https://vantoor-medcity-1.onrender.com/
 
 </div>
 
-# ✨ Overview
+---
 
-**Vantoor Medcity** is a modern AI-powered Hospital Management System built using React.
+# 📖 About
 
-The application combines patient management, appointment scheduling, workflow automation, communication management, analytics, AI assistants, and dynamic dashboards into one centralized healthcare platform.
+**Vantoor Medcity** is a modern Hospital Management Platform that combines AI, Automation, Appointment Management, Communication, Dynamic Forms, Analytics and Smart Dashboards into one scalable healthcare ecosystem.
 
-It focuses on improving operational efficiency, reducing manual work, and providing a modern experience for healthcare professionals.
+The project follows a modular architecture, allowing hospitals to manage day-to-day operations efficiently while keeping the UI modern, responsive and user friendly.
 
 ---
 
-# 🎯 Major Modules
+# ✨ Core Features
 
 ## 🏥 Hospital Management
 
 * Hospital Dashboard
 * Hospital Overview
-* Smart Analytics
-* Dashboard Builder
-* Dashboard Renderer
+* Department Management
+* Doctor Management
+* Staff Management
+* Patient Management
 
 ---
 
-## 📅 Appointment Management
-
-* Appointment Dashboard
-* Public Appointment Booking
-* AI Appointment Assistant
-* Scheduling Workflow
-
----
-
-## 🤖 AI Features
+## 🤖 AI Powered Features
 
 * AI Voice Assistant
-* AI Appointment Chatbot
+* AI Appointment Assistant
+* AI Chat Assistant
 * AI Medicine Recommendation
-* Master AI Dock
-* Nexus AI Assistant
+* AI Dashboard Assistant
+* Nexus AI
+
+---
+
+## 📅 Appointment
+
+* Book Appointment
+* Doctor Availability
+* Appointment Dashboard
+* Patient Queue
+* Schedule Management
 
 ---
 
 ## 📊 Analytics
 
-* Analytics Studio
-* Dashboard Visualization
-* Business Reports
-* Smart Insights
+* Real-time Analytics
+* Dashboard Builder
+* Dashboard Renderer
+* KPI Reports
+* Business Insights
 
 ---
 
 ## 📝 Dynamic Forms
 
-* Dynamic Form Builder
-* Public Form Rendering
-* Form Submission Dashboard
-* Dynamic Form Dashboard
+* Form Builder
+* Public Forms
+* Form Dashboard
+* Form Submission
 
 ---
 
-## ⚙ Workflow Automation
+## 📧 Communication
 
-* Workflow Builder
-* Workflow Dashboard
-* Workflow History
-* Execution Logs
-
----
-
-## 📧 Communication Center
-
-* Email Management
-* Compose Mail
-* Announcement Center
-* Notification Center
-* Availability Dashboard
+* Email Center
+* Announcement
+* Notifications
 * Communication Dashboard
 
 ---
 
-# 🔐 Authentication
+## ⚙ Workflow
 
-✔ Login
-
-✔ Registration
-
-✔ Protected Routes
-
-✔ Route Guards
-
-✔ Authentication Context
-
-✔ Private Pages
+* Workflow Builder
+* Workflow Dashboard
+* Workflow History
+* Automation
 
 ---
 
-# 🎨 UI Features
+## 🔐 Authentication
 
-* 🌙 Theme Management
-* 📱 Responsive Design
-* ⚡ Fast Navigation
-* 🎯 Dashboard Layout
-* 📌 Sidebar Navigation
-* 🔥 Modern UI Components
+* Login
+* Register
+* Protected Routes
+* Context Authentication
+
+---
+
+# 🛠 Technology Stack
+
+## 🎨 Frontend
+
+| Technology        | Purpose              |
+| ----------------- | -------------------- |
+| React             | Frontend Framework   |
+| JavaScript (ES6+) | Programming Language |
+| React Router      | Routing              |
+| CSS3              | Styling              |
+| HTML5             | Structure            |
+| Context API       | State Management     |
+| REST API          | API Integration      |
+| Vite              | Build Tool           |
+
+---
+
+## ⚙ Backend
+
+| Technology      | Purpose           |
+| --------------- | ----------------- |
+| Java            | Core Programming  |
+| Spring Boot     | Backend Framework |
+| Spring Security | Authentication    |
+| Spring Data JPA | ORM               |
+| Hibernate       | Persistence       |
+| REST APIs       | Backend Services  |
+
+---
+
+## 🗄 Database
+
+| Technology | Purpose             |
+| ---------- | ------------------- |
+| MySQL      | Relational Database |
+
+---
+
+# 🏗 Architecture
+
+```text
+                    React Frontend
+                           │
+                           │ REST API
+                           ▼
+                  Spring Boot Backend
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+     Authentication   Business Logic    AI Services
+                           │
+                           ▼
+                        MySQL
+```
 
 ---
 
@@ -138,139 +182,163 @@ It focuses on improving operational efficiency, reducing manual work, and provid
 src
 │
 ├── api
+├── assets
 ├── components
-│   ├── layout
-│   └── nexus
-│
 ├── config
+├── context
 ├── hooks
+├── layouts
 ├── pages
-│   ├── HospitalManagement
-│   └── communication
+│   ├── Dashboard
+│   ├── Appointment
+│   ├── Hospital
+│   ├── Communication
+│   ├── Analytics
+│   ├── AI
+│   ├── Workflow
+│   └── Forms
 │
 ├── routes
+├── utils
 ├── App.jsx
-├── main.jsx
-└── global.css
+└── main.jsx
 ```
 
 ---
 
-# 🚀 Features
+# 🚀 Getting Started
 
-✅ Secure Authentication
-
-✅ Protected Routing
-
-✅ AI Powered Healthcare
-
-✅ Dynamic Dashboard Builder
-
-✅ Dynamic Form Builder
-
-✅ Workflow Automation
-
-✅ Public Form Portal
-
-✅ Appointment Booking
-
-✅ Voice Assistant
-
-✅ Analytics Studio
-
-✅ Communication Center
-
-✅ Theme Switching
-
-✅ Responsive Design
-
----
-
-# 🛠 Tech Stack
-
-| Technology   | Usage                 |
-| ------------ | --------------------- |
-| React        | Frontend Framework    |
-| React Router | Routing               |
-| JavaScript   | Programming Language  |
-| CSS          | Styling               |
-| Context API  | Global State          |
-| REST API     | Backend Communication |
-
----
-
-# ⚡ Getting Started
+## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yourusername/vantoor-medcity.git
+```
 
-cd project
+## Install
 
+```bash
 npm install
+```
 
+## Start
+
+```bash
 npm run dev
 ```
 
 ---
 
-# 🌍 Deployment
+# 🌐 Deployment
 
-### Production
-
-https://vantoor-medcity-1.onrender.com/
+| Environment | URL                                     |
+| ----------- | --------------------------------------- |
+| Production  | https://vantoor-medcity-1.onrender.com/ |
 
 ---
 
-# 📸 Screens Included
+# 📸 Screenshots
+
+> Add screenshots here
 
 * Login
-* Registration
 * Dashboard
-* Appointment Management
+* Appointment
 * AI Assistant
-* Dashboard Builder
-* Workflow Builder
-* Communication Center
+* Workflow
 * Analytics
-* Dynamic Forms
+* Communication
+* Dashboard Builder
 
 ---
 
-# 🔮 Future Enhancements
+# 🎯 Future Roadmap
 
-* AI Clinical Decision Support
-* Electronic Medical Records
-* Pharmacy Management
-* Laboratory Integration
-* Billing & Insurance
-* Video Consultation
+* Electronic Medical Records (EMR)
+* Pharmacy
+* Laboratory
+* Billing
+* Insurance
 * Telemedicine
-* Real-time Notifications
-* Multi Hospital Support
-* Role Based Access Control
-* Audit Logs
-* Mobile Application
-* AI Predictive Analytics
+* Video Consultation
+* Inventory
+* HRMS
+* Payroll
+* AI Clinical Support
+* Multi Hospital
+* Mobile App
 
 ---
 
-# ❤️ Highlights
+# ⭐ Why Vantoor Medcity?
 
-* Modern Healthcare UI
-* AI Integrated Experience
-* Modular Architecture
-* Clean Folder Structure
-* Reusable Components
-* Responsive Design
-* Secure Authentication
-* Scalable Codebase
+✅ Modern UI
+
+✅ AI Powered
+
+✅ Modular Architecture
+
+✅ Responsive
+
+✅ Secure Authentication
+
+✅ Healthcare Ready
+
+✅ Dashboard Builder
+
+✅ Workflow Automation
+
+✅ Analytics
+
+✅ Scalable
+
+---
+
+# 📈 GitHub Stats
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+```
+
+---
+
+# 🐍 Contribution Snake
+
+```md
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome.
+
+1. Fork Repository
+
+2. Create Feature Branch
+
+3. Commit Changes
+
+4. Push Branch
+
+5. Create Pull Request
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, don't forget to Star the repository ⭐
+### ❤️ Built with React • Java • Spring Boot • MySQL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting!;Happy+Coding!;Made+with+❤+using+React" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Happy+Coding!;Made+with+❤️+by+Himanshu+Vishwakarma" />
 
 </div>
