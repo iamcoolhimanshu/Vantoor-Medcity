@@ -102,7 +102,7 @@ src
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/vantoor-medcity.git
+git clone https://github.com/iamcoolhimanshu/vantoor-medcity.git
 ```
 
 ### Install Dependencies
