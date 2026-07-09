@@ -78,25 +78,6 @@ The application provides a clean, responsive, and scalable platform for managing
 
 ---
 
-# 📂 Project Structure
-
-```text
-src
-├── api
-├── assets
-├── components
-├── context
-├── hooks
-├── layouts
-├── pages
-├── routes
-├── utils
-├── App.jsx
-└── main.jsx
-```
-
----
-
 # 🚀 Getting Started
 
 ### Clone Repository
@@ -138,18 +119,6 @@ npm run dev
 | Environment    | URL                                     |
 | -------------- | --------------------------------------- |
 | **Production** | https://vantoor-medcity-1.onrender.com/ |
-
----
-
-# 🔮 Future Enhancements
-
-* 💊 Pharmacy Management
-* 🧪 Laboratory Management
-* 💰 Billing & Insurance
-* 📹 Telemedicine
-* 📱 Mobile Application
-* 📂 Electronic Medical Records (EMR)
-* 🏥 Multi-Hospital Support
 
 ---
 
